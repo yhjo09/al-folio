@@ -25,4 +25,4 @@ Particularly, I am interested in Deep Learning based Image/Video Restoration (Su
 
 
 I received the B.S. degree in Computer Science at Yonsei University, in 2015.
-For more information, please refer to my [CV](/assets/pdf/CV_Sep2020.pdf){:target="\_blank"}.
+For more information, please refer to my [CV](/assets/pdf/CV_June2021.pdf){:target="\_blank"}.
